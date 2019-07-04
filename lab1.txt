@@ -1,0 +1,17 @@
+
+
+Q1. Create a Class Student with various members like Name, Age, ID, Year and Department.
+Create a Collection class which accepts a student and adds it to an ArrayList. This new collection
+class must implement the IEnumerable Interface.
+Q2. Using Generic Collection Dictionary, create an employee dictionary, where the key is the
+employee’s name and the value is his designation in the company. Available designations are:
+Software Engineer, Project Manager, Architect. The program should display a menu with the
+following options.
+1. Search for an employee’s designation.
+2. Search for all employees with a given designation.
+3. List all employees.
+4. Add Employee.
+5. Remove Employee.
+6. Clear the dictionary.
+7. Exit
+
